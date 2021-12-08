@@ -2,10 +2,10 @@
 ### 침수 피해를 방지하기 위한 범람방지 자동 수위조절 펌프 시스템
 ### 진행기간 : 2021-04-13 ~ 2021-11-30
 ### 사용기술
-### ● OpenCV - 데이터분석
-### ● C++ - 개발 언어
-### ● Git - 형상관리
-### ● App 인벤터 - Application 제작
++● OpenCV - 데이터분석
++● C++ - 개발 언어
++● Git - 형상관리
++● App 인벤터 - Application 제작
 ### ● Firebase – Realtime Database
 ### ● Whois - SMS 서비스
 ### 설명
@@ -21,7 +21,7 @@
 ### ● OpenCV를 활용해 기상레이더 분석
 ### ● 레이저 센서를 통한 거리 측정
 ### ● SSR을 이용한 펌프 제어 및 작동
-<img height="20" width="20" scr="![firebase](https://user-images.githubusercontent.com/58980007/145201309-c595c545-92a3-4254-a4de-32002bd83644.png)">
+<img height="20" width="20" scr="https://user-images.githubusercontent.com/58980007/145201309-c595c545-92a3-4254-a4de-32002bd83644.png">
 <!--
 **Park-Dong-Min/Park-Dong-Min** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
