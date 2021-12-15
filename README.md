@@ -1,17 +1,22 @@
-### Web Developer in progress💪
+## P.Dong_Min
 
-#### Current Status: Studying at Wecode 👩‍💻
+### Hope Job : Embedded Developer 💻
 
-#### I am currently learning these👉
+#### Current Status: Getting ready to get a job ✍
 
+#### I won the following awards 👇
+---
+- Daejeon University Coding Contest : Jun 2021 ~ Jul 2021 🏆 The grand prize 
+- Hanium ICT Contest : Apr 2021 ~ Nov 2021 🏆 Standing award
 
-- K-Digital Training at Multicampus: Jan 2021 - May 2021 🏆2nd Prize OnTeacher project 🏆Excellence Award
-- CS50x: Jun 2020 - ongoing
-- Likelion Workers Busan 3rd: Sep 2020 - Dec 2020 🏆Best Service Boeunbox project
+#### Should I show you the project I worked on? 
+---
+- [노후 아파트의 P형 수신 장치를 연동하는 관리사무소 SMS 화재 알림 서비스](https://github.com/Park-Dong-Min/SMS-fire-notification-service-at-the-management-office-linking-P-type-reception-devices-in-old-apart)
+- [IoT를 활용한 수위 조절 시스템](https://github.com/SangGyun-J/Flood-prevention-automatic-water-level-control-pump-system)
 
 #### Want to see my CV?
 
-<img src="https://img.shields.io/badge/Java-F37626?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-F37626?style=flat-square&logo=Java&logoColor=white" width="8%"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" width="8%"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" width="5.3%"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" width="10.6%"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" width="10.1%"/>
 
 [프로젝트](github/SangGyun-J/Flood-prevention-automatic-water-level-control-pump-system) 를 보려면 여기로 가시오
 https://github.com/SangGyun-J/Flood-prevention-automatic-water-level-control-pump-system
